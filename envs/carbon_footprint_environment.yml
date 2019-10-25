@@ -12,5 +12,9 @@ dependencies:
   - scipy
   - matplotlib
   - conda-forge::astropy>=2
+  - tqdm
+  - pandas
   - pip:
     - version_information
+    - opencage
+    - geopy
