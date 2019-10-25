@@ -1,0 +1,11 @@
+# envs
+
+
+DESCRIPTION:
+————————————
+For virtual environments
+
+
+FILES:
+——————
+. project_start_script
