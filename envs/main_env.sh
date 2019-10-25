@@ -1,1 +1,1 @@
-main_env=""
+main_env=carbon_footprint

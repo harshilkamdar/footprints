@@ -22,8 +22,7 @@ jupyter lab ./
 
 ###############################################################################
 ### ChangeLog
-# file written by James Lane
-# rewritten by Nathaniel Starkman for arbitary Anaconda env, not prespecified
+# written by Nathaniel Starkman for arbitary Anaconda env, not prespecified
 
 ###############################################################################
 ### END

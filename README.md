@@ -24,12 +24,12 @@ this will make the correct conda environment and install it into IPython
 (in alphabetical order)
 
 * **Bryan Gaensler** - *ROLE* - [WEBSITE]()
+* **Brittany Kamai** - *ROLE* - [WEBSITE]()
 * **Harshil Kamdar** - *ROLE* - [WEBSITE](https://github.com/harshilkamdar/)
 * **Katharina Lutz** - *ROLE* - [WEBSITE]()
 * **Kartheik Lyer**  - *ROLE* - [WEBSITE]()
 * **Jason Poh** - *ROLE* - [WEBSITE]()
 * **Nathaniel Starkman** - *ROLE* - [WEBSITE](https://github.com/nstarman)
-* **brittany kamai** - *ROLE* - [WEBSITE]()
 
 
 ## Using this Work

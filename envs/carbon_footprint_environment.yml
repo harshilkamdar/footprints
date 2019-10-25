@@ -1,4 +1,4 @@
-name: ENV_NAME_HERE
+name: carbon_footprint
 channels:
   - nodefaults
   - conda-forge
@@ -12,9 +12,5 @@ dependencies:
   - scipy
   - matplotlib
   - conda-forge::astropy>=2
-  - tqdm
-  - pandas
   - pip:
     - version_information
-    - opencage
-    - geopy
